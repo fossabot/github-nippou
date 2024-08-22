@@ -1,5 +1,11 @@
 # Changelog
 
+## [v4.2.31](https://github.com/masutaka/github-nippou/compare/v4.2.30...v4.2.31) - 2024-08-22
+### Documentation :memo:
+- Add contributors badge using contrib.rocks by @masutaka in https://github.com/masutaka/github-nippou/pull/202
+### Other Changes
+- Update badges by @masutaka in https://github.com/masutaka/github-nippou/pull/200
+
 ## [v4.2.30](https://github.com/masutaka/github-nippou/compare/v4.2.29...v4.2.30) - 2024-08-02
 ### Maintenance :technologist:
 - Update .github/release.yml by @masutaka in https://github.com/masutaka/github-nippou/pull/197
